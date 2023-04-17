@@ -67,6 +67,6 @@ snapshots:
     hard_deletes:
       +enabled: True
     case_sensitive:
-      +pre-hook: "{{lowercase_filename_check(model)}}"
+      # +pre-hook: "{{lowercase_filename_check(model)}}"
 
 
