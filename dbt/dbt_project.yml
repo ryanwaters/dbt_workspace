@@ -56,6 +56,8 @@ seeds:
       +enabled: True
       +schema: zodiac
       +tags: ['zodiac']
+    moderna_data:
+      +enabled: True
 
 
 snapshots:
